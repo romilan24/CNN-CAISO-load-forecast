@@ -7,4 +7,4 @@ A Deep Learning electric Demand forecast using Convolutional Neural Network (CNN
 - run keras_cnn.py script
 - observe results similar to:
 
-![Image1](https://github.com/romilan24/CNN-CAISO-load-forecast/blob/main/Prediction_vs_Actuals_CNN.png)
+![Image1](https://github.com/romilan24/CNN-CAISO-load-forecast/blob/main/CNN_forecast_v_actuals.png)
